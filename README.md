@@ -1,7 +1,7 @@
 # 📊 Expense Tracker
 
 **A simple and efficient command-line tool to track your expenses.** This application allows you to easily add, update, remove, and view your expenses, as well as generate summaries for specific months. Ideal for users who want to maintain a personal finance tracker in a straightforward, user-friendly way.
-
+[Expense Tracker](https://roadmap.sh/projects/expense-tracker).
 ## 🚀 Features
 
 - **Add Expenses:**  
