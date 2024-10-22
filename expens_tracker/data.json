@@ -1,0 +1,14 @@
+{
+    "1": {
+        "id": "1",
+        "data": "2024-10-22 22:19:46",
+        "Expense": "luch",
+        "Expense Price": "200"
+    },
+    "2": {
+        "id": "2",
+        "date": "2024-10-22 22:42:55",
+        "Expense": "dinner",
+        "Expense Price": 200.0
+    }
+}
